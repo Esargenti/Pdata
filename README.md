@@ -6,6 +6,8 @@ El propósito del estudio consistió en analizar mi performance durante el torne
 El resumen de mi torneo puede verse a continuación. Las cuatro tarjetas entregadas, la media del total, la media en los primeros nueve hoyos y la media en los últimos nueve hoyos. A su vez, se puede ver el número de handicap con el que cuento. Este, es un indicador de juego que representa el número de golpes por encima del par de campo que un jugador puede realizar en un recorrido
 
 ##
+**En primera instancia** se recabaron los datos dentro de la cancha, siguiendo una lista de mediciones previamente pensada. Luego de obtenerlos, los datos fueron volcados a un [Excel](, el cuál se dividió en diferentes hojas, para así mostrar los valores de la cancha, los resultados de cada partida y el palo utilizado en cada golpe
+##
 
 **En una segunda instancia**, se clasificaron los resultados obtenidos en función de la cantidad de golpes. Para ello, se consideró la clasificación definida por la International Golf Federation. 
 
@@ -16,7 +18,7 @@ El resumen de mi torneo puede verse a continuación. Las cuatro tarjetas entrega
  
  Este análisis se condujo para obtener así el porcentaje de cada tipo de resultado durante mi juego. 
  
- Luego de visualizar las tarjetas y el porcentaje obtenido de cada tipo, se puede notar como a lo largo de mi juego pude equilibrar la cantidad de pares y bogeys obtenidos. Sin embargo, el porcentaje de doble bogeys es alto, lo que significa que el equilibrio que se obtiene por los pares, no alcanza para contrarrestar 
+ Como se puede apreciar, durante las cuatro jornadas realicé cantidades similares de Pares y Bogeys. El diferencial se encuentra en aquellos hoyos donde para conluirlos necesité de dos golpes o más sobre el par. Esto respresentó el 38%, afectando así la contabilización total de golpes.
 
 ##
-**Por último** 
+**Como último análisis** se resgistró la cantidad de veces que se utilizó cada palo. La bolsa con la que juego para jugar contiene 12 palos, cada uno se utiliza para alcanzar diferentes distancias a lo largo de la cancha, salvar los distintos obstaculos que presenta la misma (árboles, bunker de arena, espejos de agua y fuera de límite) y así aproximarse lo más posible al hoyo.
