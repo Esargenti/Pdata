@@ -6,7 +6,7 @@ El propósito del estudio consistió en analizar mi performance durante el torne
 El resumen de mi torneo puede verse a continuación. Las cuatro tarjetas entregadas, la media del total, la media en los primeros nueve hoyos y la media en los últimos nueve hoyos. A su vez, se puede ver el número de handicap con el que cuento. Este, es un indicador de juego que representa el número de golpes por encima del par de campo que un jugador puede realizar en un recorrido
 
 ##
-**En primera instancia** se recabaron los datos dentro de la cancha, siguiendo una lista de mediciones previamente pensada. Luego de obtenerlos, los datos fueron volcados a un [Excel](, el cuál se dividió en diferentes hojas, para así mostrar los valores de la cancha, los resultados de cada partida y el palo utilizado en cada golpe
+**En primera instancia** se recabaron los datos dentro de la cancha, siguiendo una lista de mediciones previamente pensada. Luego de obtenerlos, los datos fueron volcados a un [Excel](https://esargenti.github.io/Pdata/Excel%20Estadisticas.xlsx), el cuál se dividió en diferentes hojas, para así mostrar los valores de la cancha, los resultados de cada partida y el palo utilizado en cada golpe
 ##
 
 **En una segunda instancia**, se clasificaron los resultados obtenidos en función de la cantidad de golpes. Para ello, se consideró la clasificación definida por la International Golf Federation. 
