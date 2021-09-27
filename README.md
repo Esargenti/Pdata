@@ -22,3 +22,5 @@ El resumen de mi torneo puede verse a [continuación](https://esargenti.github.i
 
 ##
 **Como último análisis** se resgistró la cantidad de veces que se utilizó cada [palo](https://esargenti.github.io/Pdata/palo.html). La bolsa con la que juego para jugar contiene 12 palos, cada uno se utiliza para alcanzar diferentes distancias a lo largo de la cancha, salvar los distintos obstaculos que presenta la misma (árboles, bunker de arena, espejos de agua y fuera de límite) y así aproximarse lo más posible al hoyo.
+
+La visualización final se puede ver [aca](https://esargenti.github.io/Pdata/infopersonal.html)
