@@ -16,7 +16,7 @@ El resumen de mi torneo puede verse a [continuación](https://esargenti.github.i
 - Se considera Bogey, la anotación de un golpe mayor al par.
 - Se considera Doble Bogey, la anotación de dos golpes mayores al par
  
- Este análisis se condujo para obtener así el porcentaje de cada tipo de resultado durante mi juego. 
+ Este análisis se condujo para obtener así el porcentaje de cada tipo de [resultado](https://esargenti.github.io/Pdata/resultados.html) durante mi juego. 
  
  Como se puede apreciar, durante las cuatro jornadas realicé cantidades similares de Pares y Bogeys. El diferencial se encuentra en aquellos hoyos donde para conluirlos necesité de dos golpes o más sobre el par. Esto respresentó el 38%, afectando así la contabilización total de golpes.
 
