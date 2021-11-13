@@ -1,0 +1,167 @@
+{
+ "Comuna 1": {
+  "votos_blanco": 4065,
+  "resultados": {
+   "voto_comando": 0,
+   "voto_impugnado":77,
+   "voto_nulo": 4039,
+   "voto_positivo": 222125,
+   "recurridos":58
+  },
+  "votos_totales": 230364
+ },
+ "Comuna 2": {
+  "votos_blanco": 2410,
+  "resultados": {
+   "voto_comando":0,
+   "voto_impugnado": 13,
+   "voto_nulo": 2301,
+   "voto_positivo": 185707,
+   "recurridos":47
+  },
+  "votos_totales": 190478
+ },
+ "Comuna 3": {
+  "votos_blanco": 4241,
+  "resultados": {
+   "voto_comando": 0,
+   "voto_impugnado":37,
+   "voto_nulo": 4435,
+   "voto_positivo": 202337,
+    "recurridos":41
+  },
+  "votos_totales": 215092
+ },
+ "Comuna 4": {
+  "votos_blanco": 5543,
+  "resultados": {
+   "voto_comando": 0,
+   "voto_impugnado": 110,
+   "voto_nulo": 5301,
+   "voto_positivo": 240668,
+    "recurridos":217
+  },
+  "votos_totales": 251839
+ },
+ "Comuna 5": {
+  "votos_blanco": 4248,
+  "resultados": {
+   "voto_comando":0,
+   "voto_impugnado": 46,
+   "voto_nulo": 3919,
+   "voto_positivo": 216368,
+    "recurridos":50
+  },
+  "votos_totales": 224631
+ },
+ "Comuna 6": {
+  "votos_blanco": 4185,
+  "resultados": {
+   "voto_comando":0,
+   "voto_impugnado": 42,
+   "voto_nulo": 3568,
+   "voto_positivo": 227457,
+    "reucurridos":29
+  },
+  "votos_totales": 235281
+ },
+ "Comuna 7": {
+  "votos_blanco": 4798,
+  "resultados": {
+   "voto_comando": 0,
+   "voto_impugnado": 127,
+   "voto_nulo": 4777,
+   "voto_positivo":243813,
+    "recurridos":174
+  },
+  "votos_totales": 253689
+ },
+ "Comuna 8": {
+  "votos_blanco": 4430,
+  "resultados": {
+   "voto_comando": 0,
+   "voto_impugnado": 182,
+   "voto_nulo": 4733,
+   "voto_positivo": 194482,
+    "recurridos":225
+  },
+  "votos_totales": 204052
+ },
+ "Comuna 9": {
+  "votos_blanco": 4220,
+  "resultados": {
+   "voto_comando": 0,
+   "voto_impugnado": 67,
+   "voto_nulo": 4146,
+   "voto_positivo": 207909,
+    "recurridos":52
+  },
+  "votos_totales": 216394
+ },
+ "Comuna 10": {
+  "votos_blanco": 4165,
+  "resultados": {
+   "voto_comando": 0,
+   "voto_impugnado": 108,
+   "voto_nulo": 4221,
+   "voto_positivo": 213975,
+    "recurridos":162
+  },
+  "votos_totales": 222631
+ },
+ "Comuna 11":{
+ "votos_blanco": 4822,
+  "resultados": {
+   "voto_comando": 0,
+   "voto_impugnado": 30,
+   "voto_nulo":4872,
+   "voto_positivo": 246875,
+    "reucrridos":98
+  },
+  "votos_totales": 256697
+ },
+ "Comuna 12": {
+  "votos_blanco":5218,
+  "resultados": {
+   "voto_comando": 0,
+   "voto_impugnado":85,
+   "voto_nulo": 4877,
+   "voto_positivo": 269886,
+    "recurridos":61
+  },
+  "votos_totales": 280127
+ },
+ "Comuna 13": {
+  "votos_blanco":5113,
+  "resultados": {
+   "voto_comando": 0,
+   "voto_impugnado": 53,
+   "voto_nulo": 4129,
+   "voto_positivo": 301853,
+    "recurridos":50
+  },
+  "votos_totales": 311198
+ },
+ "Comuna 14": {
+  "votos_blanco": 4208,
+  "resultados": {
+   "voto_comando": 0,
+   "voto_impugnado": 44,
+   "voto_nulo": 3765,
+   "voto_positivo": 279256,
+   "recurridos":108
+  },
+  "votos_totales": 287381
+ },
+ "Comuna 15": {
+  "votos_blanco": 4608,
+  "resultados": {
+   "voto_comando": 0,
+   "voto_impugnado": 51,
+   "voto_nulo": 4577,
+   "voto_positivo": 228342,
+   "recurridos":76
+  },
+  "votos_totales": 237654
+ }
+}
