@@ -80,12 +80,12 @@
   "votos_totales": 124098
  },
  "11":{
- "votos_blanco": 4921,
+ "votos_blanco":4921,
   "resultados": {
    "voto_nulo":1095,
-   "voto_positivo": 137853
+   "voto_positivo":137853
   },
-  "votos_totales": 143869
+  "votos_totales":143869
  },
  "12": {
   "votos_blanco":7708,
