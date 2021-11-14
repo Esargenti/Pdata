@@ -1,5 +1,5 @@
 {
- "Comuna 1": {
+ "1": {
   "votos_blanco": 4065,
   "resultados": {
    "voto_comando": 0,
@@ -10,7 +10,7 @@
   },
   "votos_totales": 230364
  },
- "Comuna 2": {
+ "2": {
   "votos_blanco": 2410,
   "resultados": {
    "voto_comando":0,
@@ -21,7 +21,7 @@
   },
   "votos_totales": 190478
  },
- "Comuna 3": {
+ "3": {
   "votos_blanco": 4241,
   "resultados": {
    "voto_comando": 0,
@@ -32,7 +32,7 @@
   },
   "votos_totales": 215092
  },
- "Comuna 4": {
+ "4": {
   "votos_blanco": 5543,
   "resultados": {
    "voto_comando": 0,
@@ -43,7 +43,7 @@
   },
   "votos_totales": 251839
  },
- "Comuna 5": {
+ "5": {
   "votos_blanco": 4248,
   "resultados": {
    "voto_comando":0,
@@ -54,7 +54,7 @@
   },
   "votos_totales": 224631
  },
- "Comuna 6": {
+ "6": {
   "votos_blanco": 4185,
   "resultados": {
    "voto_comando":0,
@@ -65,7 +65,7 @@
   },
   "votos_totales": 235281
  },
- "Comuna 7": {
+ "7": {
   "votos_blanco": 4798,
   "resultados": {
    "voto_comando": 0,
@@ -76,7 +76,7 @@
   },
   "votos_totales": 253689
  },
- "Comuna 8": {
+ "8": {
   "votos_blanco": 4430,
   "resultados": {
    "voto_comando": 0,
@@ -87,7 +87,7 @@
   },
   "votos_totales": 204052
  },
- "Comuna 9": {
+ "9": {
   "votos_blanco": 4220,
   "resultados": {
    "voto_comando": 0,
@@ -98,7 +98,7 @@
   },
   "votos_totales": 216394
  },
- "Comuna 10": {
+ "10": {
   "votos_blanco": 4165,
   "resultados": {
    "voto_comando": 0,
@@ -109,7 +109,7 @@
   },
   "votos_totales": 222631
  },
- "Comuna 11":{
+ "11":{
  "votos_blanco": 4822,
   "resultados": {
    "voto_comando": 0,
@@ -120,7 +120,7 @@
   },
   "votos_totales": 256697
  },
- "Comuna 12": {
+ "12": {
   "votos_blanco":5218,
   "resultados": {
    "voto_comando": 0,
@@ -131,7 +131,7 @@
   },
   "votos_totales": 280127
  },
- "Comuna 13": {
+ "13": {
   "votos_blanco":5113,
   "resultados": {
    "voto_comando": 0,
@@ -142,7 +142,7 @@
   },
   "votos_totales": 311198
  },
- "Comuna 14": {
+ "14": {
   "votos_blanco": 4208,
   "resultados": {
    "voto_comando": 0,
@@ -153,7 +153,7 @@
   },
   "votos_totales": 287381
  },
- "Comuna 15": {
+ "15": {
   "votos_blanco": 4608,
   "resultados": {
    "voto_comando": 0,
