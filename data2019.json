@@ -1,0 +1,123 @@
+{
+ "1": {
+  "votos_blanco": 7496,
+  "resultados": {
+   "voto_nulo": 943,
+   "voto_positivo": 123065
+  },
+  "votos_totales": 131504
+ },
+ "2": {
+  "votos_blanco": 4445,
+  "resultados": {
+   "voto_nulo": 565,
+   "voto_positivo": 106028
+  },
+  "votos_totales": 111038
+ },
+ "3": {
+  "votos_blanco": 7412,
+  "resultados": {
+   "voto_nulo": 917
+   "voto_positivo":115325
+  
+  },
+  "votos_totales": 123654
+ },
+ "4": {
+  "votos_blanco": 9700,
+  "resultados": {
+   "voto_nulo": 1165,
+   "voto_positivo": 134460
+  },
+  "votos_totales": 145325
+ },
+ "5": {
+  "votos_blanco": 6838,
+  "resultados": {
+   "voto_nulo": 911,
+   "voto_positivo":120359
+  },
+  "votos_totales": 128108
+ },
+ "6": {
+  "votos_blanco": 4213,
+  "resultados": {
+   "voto_nulo": 878,
+   "voto_positivo": 128327
+  },
+  "votos_totales": 133418
+ },
+ "7": {
+  "votos_blanco": 8224,
+  "resultados": {
+   "voto_nulo": 1118,
+   "voto_positivo":133154
+  },
+  "votos_totales": 142496
+ },
+ "8": {
+  "votos_blanco": 6432,
+  "resultados": {
+   "voto_nulo": 1096,
+   "voto_positivo": 109576
+  },
+  "votos_totales": 117104
+ },
+ "9": {
+  "votos_blanco":5025,
+  "resultados": {
+   "voto_nulo": 1004,
+   "voto_positivo": 117264
+  },
+  "votos_totales": 123293
+ },
+ "10": {
+  "votos_blanco": 4693,
+  "resultados": {
+   "voto_nulo": 984,
+   "voto_positivo": 118421
+  },
+  "votos_totales": 124098
+ },
+ "11":{
+ "votos_blanco": 4921,
+  "resultados": {
+   "voto_nulo":1095,
+   "voto_positivo": 137853
+  },
+  "votos_totales": 143869
+ },
+ "12": {
+  "votos_blanco":7708,
+  "resultados": {
+   "voto_nulo": 1147,
+   "voto_positivo": 150233
+  },
+  "votos_totales": 159088
+ },
+ "13": {
+  "votos_blanco":7192,
+  "resultados": {
+   "voto_nulo": 911,
+   "voto_positivo": 168950
+  },
+  "votos_totales": 177053
+ },
+ "14": {
+  "votos_blanco": 4413,
+  "resultados": {
+   "voto_nulo": 1029,
+   "voto_positivo": 161081
+  },
+  "votos_totales": 166523
+ },
+ "15": {
+  "votos_blanco": 5059,
+  "resultados": {
+   "voto_nulo": 1096,
+   "voto_positivo": 128233
+  },
+  "votos_totales": 134388
+ }
+}
