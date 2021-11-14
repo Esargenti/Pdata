@@ -1,0 +1,14 @@
+{
+ "1": {
+  "votos_blanco": 7496,
+  "resultados": {
+   "voto_nulo": 943,
+   "voto_positivo": 123065
+  },
+  "votos_totales": 131504
+ },
+ "2": {
+  "votos_blanco": 4445,
+  "resultados": {
+   "voto_nulo": 565,
+   "voto_positivo": 106028
